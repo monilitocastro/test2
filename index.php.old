@@ -1,0 +1,16 @@
+<HTML>
+<HEAD><TITLE>HELLO</TITLE></HEAD>
+ <BODY>
+ <H1>Welcome to my first PHP page</H1>
+ <H2>It is meant to look fancy</H2>
+ It has:<br>
+ <UL>
+  <LI>Pizas</LI>
+  <LI>Mirth</LI>
+  <LI>Quality</LI>
+ </UL>
+  <?php
+  echo phpinfo();
+  ?>
+ </BODY>
+</HTML>

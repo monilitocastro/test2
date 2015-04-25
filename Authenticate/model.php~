@@ -1,0 +1,11 @@
+<?php
+include_once('../BaseModel.php');
+class Model extends BaseModel
+{
+    public $Username;
+    public $Password;
+    public function __construct(){
+    }
+    
+}
+?>
